@@ -1,1 +1,1 @@
-TinDog Starting Files
+TinDog- A Tinder for dogs
